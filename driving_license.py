@@ -11,3 +11,5 @@ if nat == 'USA': # setup USA condition
 		print ('You can apply for driving license exam')
 	else:
 		print ('You cannot apply for driving license exam')
+else: # other nationality
+	print ('Your nationality must be input as either Taiwan or USA')
